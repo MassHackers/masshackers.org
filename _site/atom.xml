@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>MassHackers</title>
+ <link href="http://username.github.io/" rel="self"/>
+ <link href="http://username.github.io"/>
+ <updated>2013-11-13T23:17:06-05:00</updated>
+ <id>http://username.github.io</id>
+ <author>
+   <name>MassHackers</name>
+   <email>masshackers@example.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>Meeting</title>
+   <link href="http://username.github.io/2013/11/13/meeting"/>
+   <updated>2013-11-13T00:00:00-05:00</updated>
+   <id>http://username.github.io/2013/11/13/meeting</id>
+   <content type="html">&lt;p&gt;Presentations/Discussions:&lt;/p&gt;
+
+&lt;p&gt;1) &lt;a href=&#39;https://twitter.com/bostonlink&#39;&gt;@bostonlink&lt;/a&gt; - CloudPWN&lt;/p&gt;
+
+&lt;p&gt;2) TBD&lt;/p&gt;
+
+&lt;p&gt;3) TBD&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>Meeting</title>
+   <link href="http://username.github.io/2013/10/09/meeting"/>
+   <updated>2013-10-09T00:00:00-04:00</updated>
+   <id>http://username.github.io/2013/10/09/meeting</id>
+   <content type="html">&lt;p&gt;Presentations/Discussions:&lt;/p&gt;
+
+&lt;p&gt;1) SingleMaltCTF - CSAW Challenge Walk-Through&lt;/p&gt;
+
+&lt;p&gt;2) TBD&lt;/p&gt;
+
+&lt;p&gt;3) TBD&lt;/p&gt;</content>
+ </entry>
+ 
+ 
+</feed>

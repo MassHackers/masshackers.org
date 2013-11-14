@@ -1,11 +1,11 @@
 
-http://username.github.io/about.html
-http://username.github.io/archive.html
-http://username.github.io/atom.xml
-http://username.github.io/index.html
-http://username.github.io/pages.html
-http://username.github.io/rss.xml
-http://username.github.io/sitemap.txt
+http://claudijd.github.io/masshackers.com/about.html
+http://claudijd.github.io/masshackers.com/archive.html
+http://claudijd.github.io/masshackers.com/atom.xml
+http://claudijd.github.io/masshackers.com/index.html
+http://claudijd.github.io/masshackers.com/pages.html
+http://claudijd.github.io/masshackers.com/rss.xml
+http://claudijd.github.io/masshackers.com/sitemap.txt
 
-http://username.github.io/2013/11/13/meeting
-http://username.github.io/2013/10/09/meeting
+http://claudijd.github.io/masshackers.com/2013/11/13/meeting
+http://claudijd.github.io/masshackers.com/2013/10/09/meeting

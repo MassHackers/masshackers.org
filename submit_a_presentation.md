@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Submit A Presentation"
+group: navigation
 description: ""
 ---
 

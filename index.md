@@ -10,7 +10,7 @@ tagline: A Boston-based Hacker Meetup
 
 MassHackers is a monthly meeting for hackers of all kinds to share the projects they're working on, and to learn about the projects of others. If this interests you, check out our about page for a full explanation.
 
-Details about our previous and upcoming meetings can be found in the [archive](/archive.html).
+Details about our previous and upcoming meetings can be found in the [archive](/masshackers.com/archive.html).
 
 ### Where
 

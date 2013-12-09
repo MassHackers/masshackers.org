@@ -20,9 +20,6 @@ The [Red Hat](http://redhatboston.com/) in Boston, MA, USA (near Government Cent
 
 Monthly meetings are held on the 2nd Wednesday of every month.
 
-### Contact
-
-[Twitter](https://twitter.com/MassHackers) or IRC (#masshackers on Freenode)
 
 
 
